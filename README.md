@@ -39,6 +39,20 @@ I have not included support for any modded tool, but if you want any, just ask!
 
 ---
 
+## 📖 Settings
+
+As of `version 2.6.1` you can now change some settings in-game.
+
+> You need to be in creative mode (and if in a server, be an OP)
+
+Type this command in chat to give yourself a written book:
+
+```/function sklps:config```
+
+It allows you to change some settings once you open it.
+
+---
+
 ### 🔢 *Detailed Information on the numbers I used:*
 
 [**Google Docs File**](https://docs.google.com/spreadsheets/d/1ja2UrwOSQU-HuBbu5GjIAst3xkR4ZdJTHHQBmAlbfy0/edit?usp=sharing)
