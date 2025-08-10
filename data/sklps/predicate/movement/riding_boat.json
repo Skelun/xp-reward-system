@@ -1,0 +1,37 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type_specific": {
+            "type": "minecraft:player",
+            "gamemode": [
+                "survival",
+                "adventure"
+            ]
+        },
+        "vehicle": {
+            "type": [
+                "minecraft:acacia_boat",
+                "minecraft:bamboo_raft",
+                "minecraft:cherry_boat",
+                "minecraft:birch_boat",
+                "minecraft:dark_oak_boat",
+                "minecraft:jungle_boat",
+                "minecraft:mangrove_boat",
+                "minecraft:oak_boat",
+                "minecraft:pale_oak_boat",
+                "minecraft:spruce_boat",
+                "minecraft:acacia_chest_boat",
+                "minecraft:bamboo_chest_raft",
+                "minecraft:cherry_chest_boat",
+                "minecraft:birch_chest_boat",
+                "minecraft:dark_oak_chest_boat",
+                "minecraft:jungle_chest_boat",
+                "minecraft:mangrove_chest_boat",
+                "minecraft:oak_chest_boat",
+                "minecraft:pale_oak_chest_boat",
+                "minecraft:spruce_chest_boat"
+            ]
+        }
+    }
+}

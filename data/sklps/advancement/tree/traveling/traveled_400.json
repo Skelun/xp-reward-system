@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:chainmail_boots"
+        },
+        "title": {"translate": "Bronze Medal in the next update"},
+        "description": {"translate": "Travel the distance of an Olympic Track"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/traveling/traveled_101",
+    "criteria": {"traveled": {"trigger": "minecraft:impossible"}},
+    "requirements": [["traveled"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

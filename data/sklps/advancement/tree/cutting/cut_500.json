@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_axe"
+        },
+        "title": {"translate": "Elite Lumberjack"},
+        "description": {"translate": "The only thing louder than your blade is the silence after"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/cutting/cut_360",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

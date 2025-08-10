@@ -1,0 +1,25 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type_specific": {
+            "type": "minecraft:player",
+            "gamemode": [
+                "survival",
+                "adventure"
+            ]
+        },
+        "equipment": {
+            "mainhand": {
+                "items": [
+                    "minecraft:netherite_hoe",
+                    "minecraft:diamond_hoe",
+                    "minecraft:golden_hoe",
+                    "minecraft:iron_hoe",
+                    "minecraft:stone_hoe",
+                    "minecraft:wooden_hoe"
+                ]
+            }
+        }
+    }
+}

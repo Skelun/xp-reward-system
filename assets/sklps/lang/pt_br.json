@@ -1,0 +1,185 @@
+{
+    "/////------------------------------------------------------------------------------":"",
+    "//// .. TRANSLATION - PORTUGUESE BRAZILIAN":"",
+    "///--------------------------------------------------------------------------------":"",
+    "// Translator": "Skelun",
+    "/----------------------------------------------------------------------------------":"",
+    
+    "Skelun's XP Reward System": "Sistema de Recompensa em XP do Skelun",
+
+    "Cutting": "Cortando",
+    "Digging": "Cavando",
+    "Farming": "Colhendo",
+    "Mining": "Minerando",
+    "Traveling": "Viajando",
+    
+    "// .. CUTTING LEVELS --------------------------------------------------------------":"",
+    
+    "Apprentice Lumberjack": "Lenhador Aprendiz",
+    "Still sustainable":
+    "Ainda sustentável",
+
+    "Beginner Lumberjack": "Lenhador Novato",
+    "Enough wood for a small house":
+    "Madeira suficiente para uma casa pequena",
+
+    "Intermediate Lumberjack": "Lenhador Intermediário",
+    "An artificial clearing in the forest":
+    "Uma clareira artificial na floresta",
+
+    "Skilled Lumberjack": "Lenhador Habilidioso",
+    "You will start a crisis of homeless birds":
+    "Você vai criar uma onda de pássaros sem casa",
+
+    "Elite Lumberjack": "Lenhador de Elite",
+    "The only thing louder than your blade is the silence after":
+    "O único barulho mais alto que sua lâmina é o do silêncio que procede",
+
+    "Master Lumberjack": "Mestre Lenhador",
+    "How dare you!?":
+    "Como ousa!",
+    
+    "Super Lumberjack": "Super Lenhador",
+    "The god of destruction!":
+    "O deus da destruição!",
+    
+    "Ultimate Lumberjack": "Lenhador Lendário",
+    "Chestnut Blight all over again. Don't you feel guilty?":
+    "E lá se foi a Floresta Amazônica. Você não se sente culpado?",
+
+    "// .. DIGGING LEVELS --------------------------------------------------------------":"",
+    
+    "Apprentice Digger": "Cavador Aprendiz",
+    "With this much digging you could reach Arsenalna Station":
+    "Com esse tanto cavado você chegaria ao Metrô de Kiev",
+
+    "Beginner Digger": "Cavador Novato",
+    "Now the Large Hadron Collider":
+    "Agora ao Grande Colisor de Hádrons",
+
+    "Intermediate Digger": "Cavador Intermediário",
+    "Now you would reach the Wieliczka Salt Mine":
+    "Agora você teria chegado à Mina de Sal de Wieliczka",
+
+    "Skilled Digger": "Cavador Habilidioso",
+    "The dwarves of Khazad-dûm are waiting for you":
+    "Os anões de Khazad-dûm estão aguardando você",
+
+    "Elite Digger": "Cavador de Elite",
+    "Digging this much would make you safe from any Nuclear Explosion":
+    "Com esse tanto cavado você estaria seguro de qualquer explosão nuclear",
+
+    "Master Digger": "Mestre Cavador",
+    "You would have reached the deepest gold mine: Mponeng's Gold Mine":
+    "Você teria chegado agora à mina mais profunda: A Mina de Ouro de Mponeng",
+
+    "Super Digger": "Super Cavador",
+    "As deep as the Kola Superdeep Borehole - The deepest hole ever made by humans":
+    "Tão profundo quanto o Poço Superprofundo de Kola - O buraco mais profundo já feito por humanos",
+    
+    "Ultimate Digger": "Cavador Lendário",
+    "You've reached the end of The Saknussemm Path! - Jules Verne would be proud":
+    "Você chegou ao fim do Caminho de Saknussemm! - Jules Verne estaria orgulhoso",
+
+    "// .. FARMING LEVELS --------------------------------------------------------------":"",
+
+    "Apprentice Farmer": "Fazendeiro Aprendiz",
+    "One bucket is enough":
+    "Um só balde de água basta",
+
+    "Beginner Farmer": "Fazendeiro Novato",
+    "Full chunk of crops":
+    "Um chunk inteiro de colheitas",
+
+    "Intermediate Farmer": "Fazendeiro Intermediário",
+    "Enough wheat to breed 800 hundred sheeps":
+    "Trigo suficiente para criar 800 ovelhas",
+
+    "Skilled Farmer": "Fazendeiro Habilidioso",
+    "Enough carrot for 1292 baby horses. It would take 18 real life days for them to mature":
+    "Cenouras suficientes para criar 1292 potros. Seria preciso 18 dias reais para eles crescerem",
+
+    "Elite Farmer": "Fazendeiro Elite",
+    "Enough sugar and wheat to bake 200 cakes. Just need 200 eggs and 600 buckets of milk. Easy!":
+    "Açúcar e trigo suficientes para fazer 200 bolos. Só faltam 200 ovos e 600 balde de leite. Fácil!",
+
+    "Master Farmer": "Mestre Fazendeiro",
+    "A shulker box would be entirely filled with all this food":
+    "Uma Caixa de Shulker seria completamente preenchida com tanta comida",
+
+    "Super Farmer": "Super Fazendeiro",
+    "Food everywhere! All your crops could fill a standard map":
+    "Comida por todo lugar! Todas as suas colheitas poderiam preencher um mapa padrão",
+
+    "Ultimate Farmer": "Fazendeiro Lendário",
+    "You solved world hunger with an entire zoomed-out map of crops":
+    "Voce resolveu a fome mundial com uma mapa máximo preenchido de colheitas",
+    
+    "// .. MINING LEVELS --------------------------------------------------------------":"",
+    
+    "Apprentice Miner": "Minerador Aprendiz",
+    "The beginning of your mining career":
+    "O começo da sua carreira de minerador",
+    
+    "Beginner Miner": "Minerador Novato",
+    "Mining 101":
+    "Mineração para leigos",
+    
+    "Intermediate Miner": "Minerador Intermediário",
+    "404 - No ores found":
+    "Erro 404 - Nenhum minério encontrado",
+    
+    "Skilled Miner": "Minerador Habilidioso",
+    "Fortune favors the bold!":
+    "A fortuna favorece o bravo",
+    
+    "Elite Miner": "Minerador Elite",
+    "The 1337 Miner":
+    "Minerador 1337",
+    
+    "Master Miner": "Mestre Minerador",
+    "I love mining 3000!":
+    "Eu amo mineração mil milhões!",
+    
+    "Super Miner": "Super Minerador",
+    "Everyone will be breaking their scouters":
+    "Os Leitores de Ki de todo mundo acabou de quebrar",
+    
+    "Ultimate Miner": "Minerador Lendário",
+    "Hey, Giga Chad! Don't stop mewing":
+    "Ei, Giga Chad! Continua usando seu Gua Shá?",
+
+    "// .. TRAVELING LEVELS ------------------------------------------------------------":"",
+
+    "First Goal": "7x1?",
+    "Travel the lenght of a soccer field":
+    "Viage o comprimento de um campo de futebol",
+
+    "Bronze Medal in the next update": "Medalha de Bronze na próxima atualização",
+    "Travel the distance of an Olympic Track":
+    "Viage a distância de uma pista olímpica",
+
+    "Sandstorm": "Tempestade de Areia",
+    "Travel as much as the height of the Burj Khalifa":
+    "Viage tanto quanto a altura do Burj Khalifa",
+
+    "Californication": "Californicação",
+    "Travel the lenght of the Golden Gate Bridge":
+    "Viage o comprimento da Ponte Golden Gate",
+
+    "Not Webbing": "Sem Usar Teias",
+    "Travel the lenght of Manhattan Island":
+    "Viage o comprimento da Ilha de Manhattan",
+
+    "No Barriers": "Sem Barreiras",
+    "Travel the lenght of the Great Wall of China":
+    "Viage o comprimento da Grande Muralha da China",
+
+    "Better Hydrate": "Melhor Se Hidratar",
+    "You traveled the lenght of a full marathon course":
+    "Você viajou a distância de uma maratona completa",
+
+    "Magnificent Desolation": "Desolação Magnífica",
+    "You traveled the distance needed to reach the outer space":
+    "Você viajou a distância para chegar ao espaço sideral"
+}

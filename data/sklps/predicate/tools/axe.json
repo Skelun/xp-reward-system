@@ -1,0 +1,25 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type_specific": {
+            "type": "minecraft:player",
+            "gamemode": [
+                "survival",
+                "adventure"
+            ]
+        },
+        "equipment": {
+            "mainhand": {
+                "items": [
+                    "minecraft:netherite_axe",
+                    "minecraft:diamond_axe",
+                    "minecraft:golden_axe",
+                    "minecraft:iron_axe",
+                    "minecraft:stone_axe",
+                    "minecraft:wooden_axe"
+                ]
+            }
+        }
+    }
+}

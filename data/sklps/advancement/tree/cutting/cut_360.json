@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:golden_axe"
+        },
+        "title": {"translate": "Skilled Lumberjack"},
+        "description": {"translate": "You will start a crisis of homeless birds"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/cutting/cut_180",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

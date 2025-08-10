@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:stone_pickaxe"
+        },
+        "title": {"translate": "Beginner Miner"},
+        "description": {"translate": "Mining 101"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/mining/mined_42",
+    "criteria": {"mined": {"trigger": "minecraft:impossible"}},
+    "requirements": [["mined"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

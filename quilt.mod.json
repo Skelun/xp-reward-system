@@ -1,0 +1,34 @@
+{
+    "schema_version": 1,
+    "quilt_loader": {
+        "group": "com.modrinth",
+        "id": "skelun_xp_reward_system",
+        "version": "2.6.1",
+        "metadata": {
+            "name": "Skelun's XP Reward System",
+            "description": "XP from more sources: traveling, cutting, digging, mining and farming!",
+            "icon": "pack.png",
+            "contributors": {
+                "skelun": "Owner"
+            },
+            "contact": {
+                "homepage": "https://www.planetminecraft.com/data-pack/skelun-s-xp-reward-system/",
+                "curseforge": "https://www.curseforge.com/minecraft/texture-packs/skeluns-xp-reward-system",
+                "modrinth": "https://modrinth.com/datapack/xp-reward-system"
+            },
+            "license": {
+                "name": "MIT License",
+                "id": "MIT",
+                "url": "https://mit-license.org/"
+            }
+        },
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "depends": [
+            {
+                "id": "quilt_resource_loader",
+                "versions": "*",
+                "unless": "fabric-resource-loader-v0"
+            }
+        ]
+    }
+}

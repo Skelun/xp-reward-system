@@ -1,0 +1,1 @@
+function sklps:settings/toggle {toggle:"debug.display",text:"Scoreboard display"}

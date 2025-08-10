@@ -1,0 +1,13 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:experience_bottle" },
+        "title": {"translate": "Skelun's XP Reward System"},
+        "description": "",
+        "background": "minecraft:block/stripped_warped_stem",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {"start_tracking": {"trigger": "minecraft:impossible"}},
+    "requirements": [["start_tracking"]]
+  }

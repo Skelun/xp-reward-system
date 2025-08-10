@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_pickaxe"
+        },
+        "title": {"translate": "Master Miner"},
+        "description": {"translate": "I love mining 3000!"},
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/mining/mined_1337",
+    "criteria": {"mined": {"trigger": "minecraft:impossible"}},
+    "requirements": [["mined"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 100
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_hoe"
+        },
+        "title": {"translate": "Master Farmer"},
+        "description": {"translate": "A shulker box would be entirely filled with all this food"},
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/farming/farmed_1000",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 100
+    }
+}

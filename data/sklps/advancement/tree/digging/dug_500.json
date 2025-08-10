@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:golden_shovel"
+        },
+        "title": {"translate": "Skilled Digger"},
+        "description": {"translate": "The dwarves of Khazad-dûm are waiting for you"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/digging/dug_327",
+    "criteria": {"dug": {"trigger": "minecraft:impossible"}},
+    "requirements": [["dug"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

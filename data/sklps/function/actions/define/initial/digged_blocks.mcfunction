@@ -1,0 +1,17 @@
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.clay
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.farmland
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.grass-block
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.dirt-path
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.gravel
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.mycelium
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.podzol
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.coarse-dirt
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.dirt
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.red-sand
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.sand
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.soul-sand
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.soul-soil
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.snow-block
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.snow
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.mud
+scoreboard players operation @s sklps.digging.initial_blocks += @s sklps.digging.block.muddy-mangrove-roots

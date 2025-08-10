@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:iron_pickaxe"
+        },
+        "title": {"translate": "Intermediate Miner"},
+        "description": {"translate": "404 - No ores found"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/mining/mined_101",
+    "criteria": {"mined": {"trigger": "minecraft:impossible"}},
+    "requirements": [["mined"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

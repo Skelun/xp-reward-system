@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:golden_hoe"
+        },
+        "title": {"translate": "Skilled Farmer"},
+        "description": {"translate": "Enough carrot for 1292 baby horses. It would take 18 real life days for them to mature."},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/farming/farmed_400",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

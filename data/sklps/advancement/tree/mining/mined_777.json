@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:golden_pickaxe"
+        },
+        "title": {"translate": "Skilled Miner"},
+        "description": {"translate": "Fortune favors the bold!"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/mining/mined_404",
+    "criteria": {"mined": {"trigger": "minecraft:impossible"}},
+    "requirements": [["mined"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

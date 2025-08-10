@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": {
+        "block": {
+            "blocks": [
+                "minecraft:ice",
+                "minecraft:blue_ice",
+                "minecraft:frosted_ice",
+                "minecraft:packed_ice"
+            ]
+        }
+    }
+}

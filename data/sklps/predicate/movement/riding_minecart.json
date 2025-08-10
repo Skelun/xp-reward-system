@@ -1,0 +1,21 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type_specific": {
+            "type": "minecraft:player",
+            "gamemode": [
+                "survival",
+                "adventure"
+            ]
+        },
+        "vehicle": {
+            "type": [
+                "minecraft:minecart",
+                "minecraft:chest_minecart",
+                "minecraft:furnace_minecart",
+                "minecraft:hopper_minecart"
+            ]
+        }
+    }
+}

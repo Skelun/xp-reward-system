@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:iron_hoe"
+        },
+        "title": {"translate": "Intermediate Farmer"},
+        "description": {"translate": "Enough wheat to breed 800 hundred sheeps"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/farming/farmed_256",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

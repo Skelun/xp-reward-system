@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:stone_hoe"
+        },
+        "title": {"translate": "Beginner Farmer"},
+        "description": {"translate": "Full chunk of crops"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/farming/farmed_80",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

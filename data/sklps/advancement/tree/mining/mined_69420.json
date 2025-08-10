@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_block"
+        },
+        "title": {"translate": "Ultimate Miner"},
+        "description": {"translate": "Hey, Giga Chad! Don't stop mewing"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/mining/mined_9001",
+    "criteria": {"mined": {"trigger": "minecraft:impossible"}},
+    "requirements": [["mined"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 1500
+    }
+}

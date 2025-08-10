@@ -1,0 +1,7 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'MIT License'
+showAsResourcePack = false
+mods = [
+	{ modId = 'skelun_xp_reward_system', version = '2.6.1', displayName = "Skelun's XP Reward System", description = "XP from more sources: traveling, cutting, digging, mining and farming!", logoFile = 'pack.png', authors = 'Skelun', displayURL =  'https://www.planetminecraft.com/data-pack/skelun-s-xp-reward-system/', updateJSONURL = 'https://api.modrinth.com/updates/p48gwXW4/forge_updates.json' }
+]

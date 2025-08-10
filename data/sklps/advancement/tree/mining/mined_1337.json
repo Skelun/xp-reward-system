@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_pickaxe"
+        },
+        "title": {"translate": "Elite Miner"},
+        "description": {"translate": "The 1337 Miner"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/mining/mined_777",
+    "criteria": {"mined": {"trigger": "minecraft:impossible"}},
+    "requirements": [["mined"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

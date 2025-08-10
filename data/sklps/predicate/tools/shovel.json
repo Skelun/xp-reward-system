@@ -1,0 +1,25 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type_specific": {
+            "type": "minecraft:player",
+            "gamemode": [
+                "survival",
+                "adventure"
+            ]
+        },
+        "equipment": {
+            "mainhand": {
+                "items": [
+                    "minecraft:netherite_shovel",
+                    "minecraft:diamond_shovel",
+                    "minecraft:golden_shovel",
+                    "minecraft:iron_shovel",
+                    "minecraft:stone_shovel",
+                    "minecraft:wooden_shovel"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:enchanted_golden_apple"
+        },
+        "title": {"translate": "Ultimate Farmer"},
+        "description": {"translate": "You solved world hunger with an entire zoomed-out map of crops"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/farming/farmed_16384",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 3000
+    }
+}

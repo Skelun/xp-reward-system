@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "skelun_xp_reward_system",
+    "version": "2.6.1",
+    "name": "Skelun's XP Reward System",
+    "description": "XP from more sources: traveling, cutting, digging, mining and farming!",
+    "authors": [ "skelun" ],
+    "contact": {
+        "homepage": "https://www.planetminecraft.com/data-pack/skelun-s-xp-reward-system/"
+    },
+    "license": "MIT License",
+    "icon": "pack.png",
+    "environment": "*",
+    "depends": {
+        "fabric-api-base": "*",
+        "fabric-resource-loader-v0": "*"
+    },
+    "custom": {
+        "modmenu": {
+            "links": {
+                "modmenu.curseforge": "https://www.curseforge.com/minecraft/texture-packs/skeluns-xp-reward-system",
+                "modmenu.modrinth": "https://modrinth.com/datapack/xp-reward-system"
+            }
+        }
+    }
+}

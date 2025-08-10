@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:crimson_nylium"
+        },
+        "title": {"translate": "Ultimate Digger"},
+        "description": {"translate": "You've reached the end of The Saknussemm Path! - Jules Verne would be proud"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/digging/dug_12262",
+    "criteria": {"dug": {"trigger": "minecraft:impossible"}},
+    "requirements": [["dug"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 3000
+    }
+}

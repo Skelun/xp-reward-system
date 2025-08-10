@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:apple"
+        },
+        "title": {"translate": "Super Farmer"},
+        "description": {"translate": "Food everywhere! All your crops could fill a standard map"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/farming/farmed_1728",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 1000
+    }
+}

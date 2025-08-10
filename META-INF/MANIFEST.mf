@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: skelun-xp-reward-system
+Specification-Vendor: Skelun
+Specification-Version: 2.6.1
+Implementation-Title: skelun-xp-reward-system
+Implementation-Version: 2.6.1
+Implementation-Vendor: Skelun
+Implementation-Timestamp: 2025-08-09T23:20:00-0300

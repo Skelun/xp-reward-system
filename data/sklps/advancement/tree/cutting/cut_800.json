@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_axe"
+        },
+        "title": {"translate": "Master Lumberjack"},
+        "description": {"translate": "How dare you!?"},
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/cutting/cut_500",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 100
+    }
+}

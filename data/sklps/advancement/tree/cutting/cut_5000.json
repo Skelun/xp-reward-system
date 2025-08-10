@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:coal_block"
+        },
+        "title": {"translate": "Ultimate Lumberjack"},
+        "description": {"translate": "Chestnut Blight all over again. Don't you feel guilty?"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/cutting/cut_1500",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 1000
+    }
+}

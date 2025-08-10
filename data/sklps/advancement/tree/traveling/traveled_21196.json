@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_boots"
+        },
+        "title": {"translate": "No Barriers"},
+        "description": {"translate": "Travel the lenght of the Great Wall of China"},
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/traveling/traveled_7000",
+    "criteria": {"traveled": {"trigger": "minecraft:impossible"}},
+    "requirements": [["traveled"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 100
+    }
+}

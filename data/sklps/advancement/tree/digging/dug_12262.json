@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:magma_block"
+        },
+        "title": {"translate": "Super Digger"},
+        "description": {"translate": "As deep as the Kola Superdeep Borehole - The deepest hole ever made by humans"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/digging/dug_2400",
+    "criteria": {"dug": {"trigger": "minecraft:impossible"}},
+    "requirements": [["dug"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 1000
+    }
+}

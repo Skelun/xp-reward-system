@@ -1,0 +1,49 @@
+[
+    {
+        "condition": "minecraft:location_check",
+        "offsetY": -1,
+        "predicate": {
+            "block": {
+                "blocks": "minecraft:rail",
+                "state": {
+                    "shape": "north_east"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "offsetY": -1,
+        "predicate": {
+            "block": {
+                "blocks": "minecraft:rail",
+                "state": {
+                    "shape": "north_west"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "blocks": "minecraft:rail",
+                "state": {
+                    "shape": "south_east"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "offsetY": -1,
+        "predicate": {
+            "block": {
+                "blocks": "minecraft:rail",
+                "state": {
+                    "shape": "north_west"
+                }
+            }
+        }
+    }
+]

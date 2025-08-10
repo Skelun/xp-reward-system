@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:wooden_shovel"
+        },
+        "title": {"translate": "Apprentice Digger"},
+        "description": {"translate": "With this much digging you could reach Arsenalna Station"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/digging",
+    "criteria": {"dug": {"trigger": "minecraft:impossible"}},
+    "requirements": [["dug"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

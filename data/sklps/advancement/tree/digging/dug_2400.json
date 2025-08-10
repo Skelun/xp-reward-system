@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:netherite_shovel"
+        },
+        "title": {"translate": "Master Digger"},
+        "description": {"translate": "You would have reached the deepest gold mine: Mponeng's Gold Mine"},
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/digging/dug_1000",
+    "criteria": {"dug": {"trigger": "minecraft:impossible"}},
+    "requirements": [["dug"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 100
+    }
+}

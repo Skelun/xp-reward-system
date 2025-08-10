@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:gold_block"
+        },
+        "title": {"translate": "Super Miner"},
+        "description": {"translate": "Everyone will be breaking their scouters"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/mining/mined_3000",
+    "criteria": {"mined": {"trigger": "minecraft:impossible"}},
+    "requirements": [["mined"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 300
+    }
+}

@@ -1,0 +1,57 @@
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.acacia-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.birch-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.cherry-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.crimson-stem
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.dark-oak-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.jungle-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.mangrove-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.oak-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.pale-oak-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.spruce-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.warped-stem
+# -------------------------------------------------------------------------------------------
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.acacia-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.birch-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.crimson-hyphae
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.dark-oak-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.cherry-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.jungle-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.mangrove-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.oak-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.pale-oak-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.spruce-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.warped-hyphae
+# -------------------------------------------------------------------------------------------
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-acacia-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-birch-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-crimson-stem
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-cherry-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-dark-oak-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-jungle-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-mangrove-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-oak-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-pale-oak-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-spruce-log
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-warped-stem
+# -------------------------------------------------------------------------------------------
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-acacia-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-birch-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-crimson-hyphae
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-dark-oak-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-cherry-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-jungle-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-mangrove-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-oak-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-pale-oak-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-spruce-wood
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.stripped-warped-hyphae
+# -------------------------------------------------------------------------------------------
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.mangrove-roots
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.melon
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.pumpkin
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.bee-nest
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.bamboo
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.cocoa
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.red-mushroom-block
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.brown-mushroom-block
+scoreboard players operation @s sklps.cutting.initial_blocks += @s sklps.cutting.block.mushroom-stem

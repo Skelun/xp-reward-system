@@ -1,0 +1,1 @@
+function sklps:settings/toggle {toggle:"sound",text:"XP feedback sound"}

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:iron_shovel"
+        },
+        "title": {"translate": "Intermediate Digger"},
+        "description": {"translate": "Now you would reach the Wieliczka Salt Mine"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/digging/dug_175",
+    "criteria": {"dug": {"trigger": "minecraft:impossible"}},
+    "requirements": [["dug"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

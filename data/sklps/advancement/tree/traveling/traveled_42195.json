@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:minecart"
+        },
+        "title": {"translate": "Better Hydrate"},
+        "description": {"translate": "You traveled the lenght of a full marathon course"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/traveling/traveled_21196",
+    "criteria": {"traveled": {"trigger": "minecraft:impossible"}},
+    "requirements": [["traveled"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 250
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_hoe"
+        },
+        "title": {"translate": "Elite Farmer"},
+        "description": {"translate": "Enough sugar and wheat to bake 200 cakes. Just need 200 eggs and 600 buckets of milk. Easy!"},
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "sklps:tree/farming/farmed_646",
+    "criteria": {"cut": {"trigger": "minecraft:impossible"}},
+    "requirements": [["cut"]],
+    "rewards": {
+        "function": "sklps:give_xp"
+    }
+}

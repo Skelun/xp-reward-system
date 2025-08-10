@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "pack_format": 82,
+        "supported_formats": [48, 82],
+        "description": [
+            {
+                "text": "Skelun's",
+                "color": "#e7cb28"
+            },
+            {
+                "text": " XP Reward System",
+                "color": "#59da9e"
+            },
+            {
+                "text": " v2.6.1 \n",
+                "color": "gray"
+            },
+            {
+                "text": "XP from more sources",
+                "color": "#6c37ff"
+            }
+        ]
+    }
+}

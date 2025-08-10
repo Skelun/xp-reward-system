@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:elytra"
+        },
+        "title": {"translate": "Magnificent Desolation"},
+        "description": {"translate": "You traveled the distance needed to reach the outer space"},
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "sklps:tree/traveling/traveled_42195",
+    "criteria": {"traveled": {"trigger": "minecraft:impossible"}},
+    "requirements": [["traveled"]],
+    "rewards": {
+        "function": "sklps:give_xp",
+        "experience": 1000
+    }
+}
