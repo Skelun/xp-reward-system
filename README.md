@@ -6,10 +6,11 @@ _It's unfair for players who likes to chill and gather materials to not get any 
 
 _This is why I created this Mod/Datapack_
 
-# ✨ NEW WAYS TO EARN XP
+&nbsp;
+
+## ✨ NEW WAYS TO EARN XP
 
 ---
-
 
 <img width="745" height="160" alt="cutting" src="https://github.com/user-attachments/assets/f65bdec4-0e0e-43fa-a45f-741ae3846163" />
 <img width="745" height="160" alt="digging" src="https://github.com/user-attachments/assets/1abc245f-fbad-4bac-a9e5-7d274f6acbf9" />
