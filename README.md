@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="496" height="80" alt="skelun's xp reward system logo wide" src="https://github.com/user-attachments/assets/eefcd143-14a9-489d-bf62-f37dbdb13b5f" />
+</p>
 
 _It's unfair for players who likes to chill and gather materials to not get any XP while tryharders are building a thousand mob farms getting loads of experience to enchant everything._
 
@@ -6,6 +9,7 @@ _This is why I created this Mod/Datapack_
 # ✨ NEW WAYS TO EARN XP
 
 ---
+
 
 <img width="745" height="160" alt="cutting" src="https://github.com/user-attachments/assets/f65bdec4-0e0e-43fa-a45f-741ae3846163" />
 <img width="745" height="160" alt="digging" src="https://github.com/user-attachments/assets/1abc245f-fbad-4bac-a9e5-7d274f6acbf9" />
@@ -16,8 +20,6 @@ _This is why I created this Mod/Datapack_
 ---
 
 ## 📝 RULES
-
-<img width="745" height="160" alt="rules" src="https://github.com/user-attachments/assets/40879454-16bf-4357-b085-af93b1513e6b" />
 
 * To receive XP by **Mining**, **Cutting**, **Digging** or **Farming** you must be using the appropriate tool;
 * You receive less XP for "**Ice Boating**" or for using the "**Rail Bug**";
@@ -42,10 +44,14 @@ I have not included support for any modded tool, but if you want any, just ask!
 
 ---
 
-💖 Feel free to give any feedback or ask for anything.
+💖 Feel free to give any feedback, trash talk or ask for anything.
 
 **You can contact me on [PlanetMinecraft](https://www.planetminecraft.com/member/skelun/)**
 
 **Or [create an issue on Github](https://github.com/Skelun/xp-reward-system/issues)**
 
+<p align="center">
+  
 <img width="745" height="160" alt="enjoy" src="https://github.com/user-attachments/assets/682085f5-c9df-4577-a1e1-87438489813d" />
+
+</p>
